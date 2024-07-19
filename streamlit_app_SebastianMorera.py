@@ -8,7 +8,7 @@ st.markdown("Here we can see the dataframe created during this weeks project.")
 
 # Read dataframe
 dataframe = pd.read_csv(
-    "WK1_Airbnb_Amsterdam_listings_proj_solution.csv",
+    "WK1_Airbnb_Amsterdam_listings_proj_SebastianMorera.csv",
     names=[
         "Airbnb Listing ID",
         "Price",
