@@ -18,3 +18,24 @@ The dataset consists of the following columns:
 We are using Streamlit to create and host our interactive visualization.
 Here is the link to visualize the project:
 https://airbnb-amsterdam-visualization-in7kj46fnzck6tdnghnyuc-sebastian.streamlit.app/
+
+## Course material week 1 summary
+- Data Science Basics:
+  - Uses data to gain useful insights for decision-making.
+  - Example: Google shows personalized ads based on user data.
+
+- Introduction to NumPy:
+  - A Python tool for handling large sets of numbers efficiently.
+  - Faster and more powerful than basic Python lists.
+
+- Why Use NumPy?:
+  - Can handle complex, multi-dimensional arrays.
+  - Speedy operations thanks to optimized memory use.
+
+- Performance Advantages:
+  - NumPy is much quicker for big data tasks compared to standard Python.
+  - Example: Adding numbers to a large array is much faster in NumPy.
+
+- Working with NumPy:
+  - Easy to access and modify array elements using simple commands.
+  - Can perform operations on arrays of different shapes seamlessly.
